@@ -1,0 +1,12 @@
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\bin\Debug\net6.0\EjemploClassLibrary.deps.json
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\bin\Debug\net6.0\EjemploClassLibrary.dll
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\bin\Debug\net6.0\EjemploClassLibrary.pdb
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.csproj.AssemblyReference.cache
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.AssemblyInfoInputs.cache
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.AssemblyInfo.cs
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.csproj.CoreCompileInputs.cache
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.dll
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\refint\EjemploClassLibrary.dll
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\EjemploClassLibrary.pdb
+E:\csharpya\EjemploDeUsoDeClassLibrary\EjemploClassLibrary\obj\Debug\net6.0\ref\EjemploClassLibrary.dll

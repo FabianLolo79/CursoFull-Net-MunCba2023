@@ -1,0 +1,15 @@
+E:\csharpya\EjemploDeBanco\bin\Debug\net6.0\EjemploDeBanco.exe
+E:\csharpya\EjemploDeBanco\bin\Debug\net6.0\EjemploDeBanco.deps.json
+E:\csharpya\EjemploDeBanco\bin\Debug\net6.0\EjemploDeBanco.runtimeconfig.json
+E:\csharpya\EjemploDeBanco\bin\Debug\net6.0\EjemploDeBanco.dll
+E:\csharpya\EjemploDeBanco\bin\Debug\net6.0\EjemploDeBanco.pdb
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.csproj.AssemblyReference.cache
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.AssemblyInfoInputs.cache
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.AssemblyInfo.cs
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.csproj.CoreCompileInputs.cache
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.dll
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\refint\EjemploDeBanco.dll
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.pdb
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\EjemploDeBanco.genruntimeconfig.cache
+E:\csharpya\EjemploDeBanco\obj\Debug\net6.0\ref\EjemploDeBanco.dll

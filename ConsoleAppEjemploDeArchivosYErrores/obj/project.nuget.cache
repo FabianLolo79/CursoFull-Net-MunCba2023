@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UKpt/iLRa/Vkd1AxwqLHIZGvImzxFtSUNHs857vWLW/pNy/Zvd2D8GQ4RPb8IgSB9d1QPNWqM+xyRfiWVmRTQ==",
+  "success": true,
+  "projectFilePath": "E:\\MuniCbaFullStack.NET-2023\\Proyectos\\ConsoleAppEjemploDeArchivosYErrores\\ConsoleAppEjemploDeArchivosYErrores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
